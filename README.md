@@ -146,3 +146,19 @@ Government of Tamil Nadu internal project. License terms to be determined by the
 ## 🙋 Contact
 
 Maintained by the Safe Start development team on behalf of the Tamil Nadu Government Medical Council initiative.
+---
+### 🔒 DEMO LOGIN ID AND PASSWORD:
+For hospital admin login : HOSP-TN-448241
+Password : DeepCheck@2026
+For Govnt login: GMC-TN-227111
+Password : DeepCheck@2026
+
+## 📜 Important
+
+### © Original Authorship & Intellectual Ownership
+
+All original written statements, research descriptions, project documentation, and conceptual content presented in this README are the independent work and intellectual creation of **Mr. Vimal P.** These writings were personally researched, developed, and authored by him for the **Safe Start Project**. No individual or organization may reproduce, copy, modify, or claim authorship of these original written materials without prior written permission from Mr. Vimal P., except as permitted by applicable law.
+
+**Original Author & Creator:** Mr.VIMAL P.  (❣️Mr. vîmąľMy1❣️) 
+**Project Name:** Safe Start  
+**Copyright © 2026 Mr. Vimal P. All Rights Reserved.
